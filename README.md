@@ -15,15 +15,15 @@ Share Market Prediction is a webapp that was developed as a part of the
 
 ## Imagery
 
-### Media 1 ###
+### Login Page ###
 
 ![pageLogin](/images/pageLogin.png)
 
-### Media 2 ###
+### Home Page ###
 
 ![pageIndex](/images/pageIndex.png)
 
-### Media N ###
+### Favorite Stocks Section ###
 
 ![pageFavorites](/images/pageFavorites.png)
 
