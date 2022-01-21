@@ -9,34 +9,34 @@ Share Market Prediction is a webapp that was developed as a part of the
     
 ## Software
 
-*Remove if not necessary*
-
-## Installation
-
-*Enter how to install here*
+- test server for the webapp was hosted with [XAMPP](https://www.apachefriends.org/index.html)
+- All missing PHP, CSS, and JavaScript files could be opened with a text editor, such as [Notepad++](https://notepad-plus-plus.org/downloads/)
+- A [PosGreSQL](https://www.postgresql.org/) was used for storing data 
 
 ## Imagery
 
 ### Media 1 ###
 
-![imageName1](imagePath1)
+![pageLogin](/images/pageLogin.png)
 
 ### Media 2 ###
 
-![imageName2](imagePath2)
+![pageIndex](/images/pageIndex.png)
 
 ### Media N ###
 
-![imageNameN](imagePathN)
+![pageFavorites](/images/pageFavorites.png)
 
 ## Roadmap
 
-*Describe the future plans for this project*
+After the 8-week internship finished, the application was handed off to an internal Infosys project team to continue work. This repository will see no further updates.
 
 ## Authors & Acknowledgments
 
-*place all contributors to the project here*
+- All code for the webapp was written by either Jason Hampshire or another unnamed Infosys InStep intern
+- Thanks to Kumar Vikas Singh for being the mentor for this project
+- Thanks to the Infosys InStep program
 
 ## Project Status
 
-*Place the status of the project here*
+This project is **Retired** and will continue to see work done internally by Infosys.
