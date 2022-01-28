@@ -1,4 +1,4 @@
-# ShareMarket Prediction Web Appliaction
+# Share Market Prediction Web Application
 
 #### Part of the Summer 2021 Infosys InStep Program ####
 
